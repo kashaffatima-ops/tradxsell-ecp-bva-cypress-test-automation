@@ -1,4 +1,4 @@
-# TradXSell Testing Project – Cypress Automation, ECP/BVA & Defect Analysis
+# TradXSell Testing Project Using Cypress Automation, ECP/BVA & Defect Analysis
 
 ## Overview
 
