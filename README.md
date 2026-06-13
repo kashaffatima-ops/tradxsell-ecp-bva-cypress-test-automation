@@ -1,4 +1,4 @@
-# TradXSell Testing Project Using Cypress Automation, ECP/BVA & Defect Analysis
+# TradXSell Testing Project Using Cypress Automation, ECP/BVA & Defect Analysis by Jira
 
 ## Overview
 
@@ -68,6 +68,7 @@ End-to-end test scenarios were automated using Cypress to validate:
 * **Boundary Value Analysis (BVA)**
 * **Git & GitHub** – Version Control
 * **Markdown Documentation**
+* **Jira** - Defect Analysis
 
 ## Test Coverage
 
@@ -117,7 +118,7 @@ The testing activities included:
 
 ## Defect Analysis
 
-The project identified and documented multiple defects including:
+The project identified and documented multiple defects using Jira, including:
 
 * Invalid username validation issues
 * Invalid email acceptance
@@ -164,7 +165,7 @@ Comprehensive test design documentation including:
 * Boundary Conditions
 * Test Data Design
 
-### Defect Reports
+### Defect Reports by Jira
 
 Detailed bug reports containing:
 
